@@ -1,0 +1,20 @@
+D:\users\rholm\source\repos\tastatur kalkulator\tastatur kalkulator\obj\Debug\tastatur kalkulator.csprojResolveAssemblyReference.cache
+D:\users\rholm\source\repos\tastatur kalkulator\tastatur kalkulator\obj\Debug\tastatur_kalkulator.Form1.resources
+D:\users\rholm\source\repos\tastatur kalkulator\tastatur kalkulator\obj\Debug\tastatur_kalkulator.Properties.Resources.resources
+D:\users\rholm\source\repos\tastatur kalkulator\tastatur kalkulator\obj\Debug\tastatur kalkulator.csproj.GenerateResource.Cache
+D:\users\rholm\source\repos\tastatur kalkulator\tastatur kalkulator\obj\Debug\tastatur kalkulator.csproj.CoreCompileInputs.cache
+D:\users\rholm\source\repos\tastatur kalkulator\tastatur kalkulator\bin\Debug\tastatur kalkulator.exe.config
+D:\users\rholm\source\repos\tastatur kalkulator\tastatur kalkulator\bin\Debug\tastatur kalkulator.exe
+D:\users\rholm\source\repos\tastatur kalkulator\tastatur kalkulator\bin\Debug\tastatur kalkulator.pdb
+D:\users\rholm\source\repos\tastatur kalkulator\tastatur kalkulator\obj\Debug\tastatur kalkulator.exe
+D:\users\rholm\source\repos\tastatur kalkulator\tastatur kalkulator\obj\Debug\tastatur kalkulator.pdb
+E:\horu3012\tastatur kalkulator\tastatur kalkulator\bin\Debug\tastatur kalkulator.exe.config
+E:\horu3012\tastatur kalkulator\tastatur kalkulator\bin\Debug\tastatur kalkulator.exe
+E:\horu3012\tastatur kalkulator\tastatur kalkulator\bin\Debug\tastatur kalkulator.pdb
+E:\horu3012\tastatur kalkulator\tastatur kalkulator\obj\Debug\tastatur kalkulator.csprojResolveAssemblyReference.cache
+E:\horu3012\tastatur kalkulator\tastatur kalkulator\obj\Debug\tastatur_kalkulator.Form1.resources
+E:\horu3012\tastatur kalkulator\tastatur kalkulator\obj\Debug\tastatur_kalkulator.Properties.Resources.resources
+E:\horu3012\tastatur kalkulator\tastatur kalkulator\obj\Debug\tastatur kalkulator.csproj.GenerateResource.Cache
+E:\horu3012\tastatur kalkulator\tastatur kalkulator\obj\Debug\tastatur kalkulator.csproj.CoreCompileInputs.cache
+E:\horu3012\tastatur kalkulator\tastatur kalkulator\obj\Debug\tastatur kalkulator.exe
+E:\horu3012\tastatur kalkulator\tastatur kalkulator\obj\Debug\tastatur kalkulator.pdb
