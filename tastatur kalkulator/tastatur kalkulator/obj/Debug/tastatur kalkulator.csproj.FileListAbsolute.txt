@@ -18,3 +18,13 @@ E:\horu3012\tastatur kalkulator\tastatur kalkulator\obj\Debug\tastatur kalkulato
 E:\horu3012\tastatur kalkulator\tastatur kalkulator\obj\Debug\tastatur kalkulator.csproj.CoreCompileInputs.cache
 E:\horu3012\tastatur kalkulator\tastatur kalkulator\obj\Debug\tastatur kalkulator.exe
 E:\horu3012\tastatur kalkulator\tastatur kalkulator\obj\Debug\tastatur kalkulator.pdb
+C:\Users\rholm\source\github\KodeEksempler\tastatur kalkulator\tastatur kalkulator\bin\Debug\tastatur kalkulator.exe.config
+C:\Users\rholm\source\github\KodeEksempler\tastatur kalkulator\tastatur kalkulator\bin\Debug\tastatur kalkulator.exe
+C:\Users\rholm\source\github\KodeEksempler\tastatur kalkulator\tastatur kalkulator\bin\Debug\tastatur kalkulator.pdb
+C:\Users\rholm\source\github\KodeEksempler\tastatur kalkulator\tastatur kalkulator\obj\Debug\tastatur kalkulator.csprojResolveAssemblyReference.cache
+C:\Users\rholm\source\github\KodeEksempler\tastatur kalkulator\tastatur kalkulator\obj\Debug\tastatur_kalkulator.Form1.resources
+C:\Users\rholm\source\github\KodeEksempler\tastatur kalkulator\tastatur kalkulator\obj\Debug\tastatur_kalkulator.Properties.Resources.resources
+C:\Users\rholm\source\github\KodeEksempler\tastatur kalkulator\tastatur kalkulator\obj\Debug\tastatur kalkulator.csproj.GenerateResource.Cache
+C:\Users\rholm\source\github\KodeEksempler\tastatur kalkulator\tastatur kalkulator\obj\Debug\tastatur kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\rholm\source\github\KodeEksempler\tastatur kalkulator\tastatur kalkulator\obj\Debug\tastatur kalkulator.exe
+C:\Users\rholm\source\github\KodeEksempler\tastatur kalkulator\tastatur kalkulator\obj\Debug\tastatur kalkulator.pdb
