@@ -1,0 +1,10 @@
+D:\Users\rholm\source\repos\enkel skjermkalkulator\enkel skjermkalkulator\bin\Debug\enkel skjermkalkulator.exe.config
+D:\Users\rholm\source\repos\enkel skjermkalkulator\enkel skjermkalkulator\bin\Debug\enkel skjermkalkulator.exe
+D:\Users\rholm\source\repos\enkel skjermkalkulator\enkel skjermkalkulator\bin\Debug\enkel skjermkalkulator.pdb
+D:\Users\rholm\source\repos\enkel skjermkalkulator\enkel skjermkalkulator\obj\Debug\enkel skjermkalkulator.csprojResolveAssemblyReference.cache
+D:\Users\rholm\source\repos\enkel skjermkalkulator\enkel skjermkalkulator\obj\Debug\enkel_skjermkalkulator.Form1.resources
+D:\Users\rholm\source\repos\enkel skjermkalkulator\enkel skjermkalkulator\obj\Debug\enkel_skjermkalkulator.Properties.Resources.resources
+D:\Users\rholm\source\repos\enkel skjermkalkulator\enkel skjermkalkulator\obj\Debug\enkel skjermkalkulator.csproj.GenerateResource.Cache
+D:\Users\rholm\source\repos\enkel skjermkalkulator\enkel skjermkalkulator\obj\Debug\enkel skjermkalkulator.csproj.CoreCompileInputs.cache
+D:\Users\rholm\source\repos\enkel skjermkalkulator\enkel skjermkalkulator\obj\Debug\enkel skjermkalkulator.exe
+D:\Users\rholm\source\repos\enkel skjermkalkulator\enkel skjermkalkulator\obj\Debug\enkel skjermkalkulator.pdb
