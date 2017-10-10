@@ -1,0 +1,10 @@
+c:\users\rholm\source\repos\terning\terning\bin\Debug\terning.exe.config
+c:\users\rholm\source\repos\terning\terning\bin\Debug\terning.exe
+c:\users\rholm\source\repos\terning\terning\bin\Debug\terning.pdb
+c:\users\rholm\source\repos\terning\terning\obj\Debug\terning.csprojResolveAssemblyReference.cache
+c:\users\rholm\source\repos\terning\terning\obj\Debug\terning.Form1.resources
+c:\users\rholm\source\repos\terning\terning\obj\Debug\terning.Properties.Resources.resources
+c:\users\rholm\source\repos\terning\terning\obj\Debug\terning.csproj.GenerateResource.Cache
+c:\users\rholm\source\repos\terning\terning\obj\Debug\terning.csproj.CoreCompileInputs.cache
+c:\users\rholm\source\repos\terning\terning\obj\Debug\terning.exe
+c:\users\rholm\source\repos\terning\terning\obj\Debug\terning.pdb
