@@ -17,10 +17,14 @@ namespace funksjoner
             InitializeComponent();
         }
 
-        
+
         int tallA = 2, tallB = 6, sum;
         int tallAA = 5, tallBB = 7;
-        int[] tabell = { 3, 5, 7, 9, 12, 13 };
+
+        // lengden er 6
+        // posisjoner    0   1  2  3   4   5
+        int[] tabell = { 3, 15, 7, 9, 12, 13 };
+        int[] tabell2 = { 13, 25, 17, 49, 412, 413, 90, 32, 64, 645 };
 
         // Alle deler av oppgave 1 testes i Form1_Load
         // Alle deler av oppgave 3 testes i Form1_Load
@@ -31,14 +35,17 @@ namespace funksjoner
             Summer1a();
             textBox1.Text = "" + sum;
 
-            Summer1b(tallAA, tallBB);
+            Summer1b(tallB, tallA);
             textBox2.Text = "" + sum;
 
             sum = Summer1c();
             textBox3.Text = "" + sum;
-            
+
             // 1d)
-            textBox4.Text = "" + Summer1d(tallA,tallBB);
+            sum = Summer1d(tallA, tallBB);
+            textBox4.Text = "" + sum;
+            //Et alt.
+            //textBox4.Text = "" + Summer1d(tallA,tallBB);
 
             // 1e)
             Summer1e();
@@ -46,19 +53,21 @@ namespace funksjoner
 
             Summer1e(tallAA, tallBB);
             textBox6.Text = "" + sum;
+
             // 1f)
             sum = Summer1f();
             textBox7.Text = "" + sum;
-            
-            textBox8.Text = "" + Summer1f(tallA, tallBB);
+
+            sum = Summer1f(tallA, tallB);
+            textBox8.Text = "" + sum;
 
             // 1g) - Rekursivt kall
             textBox9.Text = "" + Summer1f(tallA, Summer1f(tallB, tallBB));
             #endregion
 
             #region Test: oppgave 3a) - 3c)
-            textBox16.Text = Convert.ToString(sumAvArray(tabell));
-            textBox17.Text = Convert.ToString(snittAvArray(tabell));
+            textBox16.Text = Convert.ToString(sumAvArray(tabell2));
+            textBox17.Text = Convert.ToString(snittAvArray(tabell2));
             textBox18.Text = Convert.ToString(størsteTall(tabell));
 
             #endregion
@@ -110,30 +119,23 @@ namespace funksjoner
         private void Summer1e()
         {
             sum = tallA + tallB;
-            textBox1.Text += "" + sum;
         }
 
         private void Summer1e(int a, int b)
         {
             sum = a + b;
-            textBox1.Text += ", " + sum;
         }
 
-        // 1f
+        // 1f - overlastede funksjoner
         private int Summer1f()
         {
-            int s = (tallA + tallB) * 10;
+            int s = (tallA + tallB);
             return s;
-        }
-
-        private void tabPage1_Click(object sender, EventArgs e)
-        {
-
         }
 
         private int Summer1f(int a, int b)
         {
-            int s = (a + b) * 25;
+            int s = (a + b);
             return s;
         }
 
@@ -198,7 +200,7 @@ namespace funksjoner
         private bool ErPartall(int tall)
         {
             int t = tall % 2;
-            if (t > 0)
+            if (t == 0)
                 return true;
             else
                 return false;
@@ -210,8 +212,13 @@ namespace funksjoner
         private int sumAvArray(int[] t)
         {
             int s = 0;
-            foreach (int i in t)
-                s += i;
+            // Bruker foreach i dette tilfellet som alt til for-løkke
+            //foreach(int i in t)
+            //  s = s + i;
+            for (int i = 0; i < t.Length; i++)
+            {
+                s = s + t[i];
+            }
             return s;
         }
 
@@ -220,7 +227,9 @@ namespace funksjoner
         {
             double s = 0;
             foreach (int i in t)
-                s += i;
+            {
+                s = s + i; // s += i;
+            }
             s = s / t.Length;
             return s;
         }
@@ -245,6 +254,8 @@ namespace funksjoner
         private void button2_Click(object sender, EventArgs e)
         {
             TomTekstboks(textBox19);
+            TomTekstboks(textBox20);
+            TomTekstboks(textBox21);
         }
 
         private void TomTekstboks(TextBox tb)

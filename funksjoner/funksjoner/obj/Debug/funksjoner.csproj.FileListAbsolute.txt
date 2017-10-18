@@ -18,3 +18,13 @@ C:\Users\rholm\source\repos\funksjoner\funksjoner\obj\Debug\funksjoner.csproj.Ge
 C:\Users\rholm\source\repos\funksjoner\funksjoner\obj\Debug\funksjoner.csproj.CoreCompileInputs.cache
 C:\Users\rholm\source\repos\funksjoner\funksjoner\obj\Debug\funksjoner.exe
 C:\Users\rholm\source\repos\funksjoner\funksjoner\obj\Debug\funksjoner.pdb
+C:\Users\rholm\source\github\KodeEksempler\funksjoner\funksjoner\bin\Debug\funksjoner.exe.config
+C:\Users\rholm\source\github\KodeEksempler\funksjoner\funksjoner\bin\Debug\funksjoner.exe
+C:\Users\rholm\source\github\KodeEksempler\funksjoner\funksjoner\bin\Debug\funksjoner.pdb
+C:\Users\rholm\source\github\KodeEksempler\funksjoner\funksjoner\obj\Debug\funksjoner.csprojResolveAssemblyReference.cache
+C:\Users\rholm\source\github\KodeEksempler\funksjoner\funksjoner\obj\Debug\funksjoner.Form1.resources
+C:\Users\rholm\source\github\KodeEksempler\funksjoner\funksjoner\obj\Debug\funksjoner.Properties.Resources.resources
+C:\Users\rholm\source\github\KodeEksempler\funksjoner\funksjoner\obj\Debug\funksjoner.csproj.GenerateResource.Cache
+C:\Users\rholm\source\github\KodeEksempler\funksjoner\funksjoner\obj\Debug\funksjoner.csproj.CoreCompileInputs.cache
+C:\Users\rholm\source\github\KodeEksempler\funksjoner\funksjoner\obj\Debug\funksjoner.exe
+C:\Users\rholm\source\github\KodeEksempler\funksjoner\funksjoner\obj\Debug\funksjoner.pdb
