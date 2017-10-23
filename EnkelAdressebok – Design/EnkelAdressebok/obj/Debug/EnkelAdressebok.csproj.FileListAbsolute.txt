@@ -1,0 +1,20 @@
+C:\Users\rholm\source\repos\EnkelAdressebok\EnkelAdressebok\bin\Debug\EnkelAdressebok.exe.config
+C:\Users\rholm\source\repos\EnkelAdressebok\EnkelAdressebok\bin\Debug\EnkelAdressebok.exe
+C:\Users\rholm\source\repos\EnkelAdressebok\EnkelAdressebok\bin\Debug\EnkelAdressebok.pdb
+C:\Users\rholm\source\repos\EnkelAdressebok\EnkelAdressebok\obj\Debug\EnkelAdressebok.csprojResolveAssemblyReference.cache
+C:\Users\rholm\source\repos\EnkelAdressebok\EnkelAdressebok\obj\Debug\EnkelAdressebok.Properties.Resources.resources
+C:\Users\rholm\source\repos\EnkelAdressebok\EnkelAdressebok\obj\Debug\EnkelAdressebok.csproj.GenerateResource.Cache
+C:\Users\rholm\source\repos\EnkelAdressebok\EnkelAdressebok\obj\Debug\EnkelAdressebok.csproj.CoreCompileInputs.cache
+C:\Users\rholm\source\repos\EnkelAdressebok\EnkelAdressebok\obj\Debug\EnkelAdressebok.exe
+C:\Users\rholm\source\repos\EnkelAdressebok\EnkelAdressebok\obj\Debug\EnkelAdressebok.pdb
+C:\Users\rholm\source\repos\EnkelAdressebok\EnkelAdressebok\obj\Debug\EnkelAdressebok.Form1.resources
+C:\Users\rholm\source\repos\EnkelAdressebok – Design\EnkelAdressebok\bin\Debug\EnkelAdressebok.exe.config
+C:\Users\rholm\source\repos\EnkelAdressebok – Design\EnkelAdressebok\bin\Debug\EnkelAdressebok.exe
+C:\Users\rholm\source\repos\EnkelAdressebok – Design\EnkelAdressebok\bin\Debug\EnkelAdressebok.pdb
+C:\Users\rholm\source\repos\EnkelAdressebok – Design\EnkelAdressebok\obj\Debug\EnkelAdressebok.csprojResolveAssemblyReference.cache
+C:\Users\rholm\source\repos\EnkelAdressebok – Design\EnkelAdressebok\obj\Debug\EnkelAdressebok.Form1.resources
+C:\Users\rholm\source\repos\EnkelAdressebok – Design\EnkelAdressebok\obj\Debug\EnkelAdressebok.Properties.Resources.resources
+C:\Users\rholm\source\repos\EnkelAdressebok – Design\EnkelAdressebok\obj\Debug\EnkelAdressebok.csproj.GenerateResource.Cache
+C:\Users\rholm\source\repos\EnkelAdressebok – Design\EnkelAdressebok\obj\Debug\EnkelAdressebok.csproj.CoreCompileInputs.cache
+C:\Users\rholm\source\repos\EnkelAdressebok – Design\EnkelAdressebok\obj\Debug\EnkelAdressebok.exe
+C:\Users\rholm\source\repos\EnkelAdressebok – Design\EnkelAdressebok\obj\Debug\EnkelAdressebok.pdb
