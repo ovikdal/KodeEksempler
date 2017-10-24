@@ -1,0 +1,10 @@
+c:\users\rholm\source\repos\contains\contains\bin\Debug\contains.exe.config
+c:\users\rholm\source\repos\contains\contains\bin\Debug\contains.exe
+c:\users\rholm\source\repos\contains\contains\bin\Debug\contains.pdb
+c:\users\rholm\source\repos\contains\contains\obj\Debug\contains.csprojResolveAssemblyReference.cache
+c:\users\rholm\source\repos\contains\contains\obj\Debug\contains.Form1.resources
+c:\users\rholm\source\repos\contains\contains\obj\Debug\contains.Properties.Resources.resources
+c:\users\rholm\source\repos\contains\contains\obj\Debug\contains.csproj.GenerateResource.Cache
+c:\users\rholm\source\repos\contains\contains\obj\Debug\contains.csproj.CoreCompileInputs.cache
+c:\users\rholm\source\repos\contains\contains\obj\Debug\contains.exe
+c:\users\rholm\source\repos\contains\contains\obj\Debug\contains.pdb
